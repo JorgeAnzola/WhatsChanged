@@ -1,5 +1,5 @@
 {
-  "name": "jorgeanzola/whats-changed",
+  "name": "icyapril/whats-changed",
   "description": "Run PHPUnit tests on only classes and tests which have changed",
   "type": "library",
   "require": {
